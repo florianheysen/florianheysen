@@ -5,13 +5,13 @@
 
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nextjs,github,graphql,postgres,prisma)](https://florianh.dev/techstack)
 
+## Creative Stack
+  
+[![SkillIcons](https://skillicons.dev/icons?i=ps,ai,pr,ae,figma,blender)](https://florianh.dev/creative)
+
 ## Training…
   
 [![SkillIcons](https://skillicons.dev/icons?i=cloudflare,workers,heroku,gcp,aws,firebase,supabase)](https://florianh.dev/training)
-
-## Creative Stack…
-  
-[![SkillIcons](https://skillicons.dev/icons?i=ps,ai,pr,ae,figma,blender)](https://florianh.dev/creative)
 
 
 <details>
