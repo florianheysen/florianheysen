@@ -20,7 +20,7 @@
 <br />
 
 [![Twitter: florian_ust](https://img.shields.io/twitter/follow/florian_ust?style=social)](https://twitter.com/florian_ust)
-[![Linkedin: florianheysen](https://img.shields.io/badge/-florianheysen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/florianheysen/)](https://www.linkedin.com/in/florian-heysen/)
+[![Linkedin: florianheysen](https://img.shields.io/badge/-florianheysen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/florianheysen/)](https://www.linkedin.com/in/florian-heysen/?locale=en_US)
 
 <details>
   <summary>Github Stats <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></summary>
