@@ -19,7 +19,7 @@
 
 <br />
 
-[![Twitter: florian_ust](https://img.shields.io/twitter/follow/florian_ust)](https://twitter.com/florian_ust)
+[![Twitter: florian_btc](https://img.shields.io/twitter/follow/florian_btc)](https://twitter.com/florian_btc)
 [![Linkedin: florianheysen](https://img.shields.io/badge/-florianheysen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/florianheysen/)](https://www.linkedin.com/in/florian-heysen/?locale=en_US)
 [![Gmail: heysen.florian@gmail.com](https://img.shields.io/badge/-heysenflorian@gmail.com-white?logo=Gmail&logoColor=black&logoWidth=10)](mailto:heysen.florian@gmail.com)
 
