@@ -19,9 +19,8 @@
 
 <br />
 
-[![Twitter: florian_btc](https://img.shields.io/twitter/follow/florian_btc)](https://twitter.com/florian_btc)
+![](https://dcbadge.vercel.app/api/shield/170526147107356672?style=flat&compact=true)
 [![Linkedin: florianheysen](https://img.shields.io/badge/-florianheysen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/florianheysen/)](https://www.linkedin.com/in/florian-heysen/?locale=en_US)
-[![Gmail: heysen.florian@gmail.com](https://img.shields.io/badge/-heysenflorian@gmail.com-white?logo=Gmail&logoColor=black&logoWidth=10)](mailto:heysen.florian@gmail.com)
 
 <details>
   <summary>Github Stats <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></summary>
