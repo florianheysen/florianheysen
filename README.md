@@ -15,7 +15,7 @@
 
 ## 📂 Training…
   
-[![SkillIcons](https://skillicons.dev/icons?i=cloudflare,workers,heroku,gcp,aws,firebase,supabase)](https://florianh.dev/training)
+[![SkillIcons](https://skillicons.dev/icons?i=,rust,golang,heroku,cloudflare,workers,gcp,aws,firebase,supabase)](https://florianh.dev/training)
 
 <br />
 
