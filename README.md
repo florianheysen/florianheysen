@@ -21,7 +21,7 @@
 
 ![](https://dcbadge.vercel.app/api/shield/170526147107356672?style=flat&compact=true)
 [![Linkedin: florianheysen](https://img.shields.io/badge/-florianheysen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/florianheysen/)](https://www.linkedin.com/in/florian-heysen/?locale=en_US)
-![](https://komarev.com/ghpvc/?username=florianheysen&style=flat-square&color=lightgrey)
+![](https://komarev.com/ghpvc/?username=heysenflorian&style=flat-square&color=lightgrey)
 
 <details>
   <summary>Github Stats <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></summary>
