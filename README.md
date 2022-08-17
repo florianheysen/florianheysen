@@ -1,5 +1,5 @@
 # Hey There! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-**I'm Florian (he/him)** -  I'm a fullstack developer, designer, and master student based in France. I'm interested in development, data, web3, and building thriving online communities. I work on random projects in my free time, a lot involving UX and Accessiblity!
+**I'm Florian (he/him)** -  I'm a front-end developer, designer, and master student based in France. I'm interested in development, data, web3, and building thriving web experiences. I work on random projects in my free time, a lot involving UX and Data Management!
 
 ## 🛠️ Current tech stack 
 
