@@ -1,21 +1,21 @@
 # Hey There! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-**I'm Florian (he/him)** -  I'm a front-end developer, designer, and master student based in France. I'm interested in development, data, web3, and building thriving web experiences. I work on random projects in my free time, a lot involving UX and Data Management!
+**I'm Florian (he/him)** -  I'm a front-end developer and designer based in Paris, France. I'm interested in development, data, web3, and building thriving web experiences. I work on random projects in my free time, a lot involving UX and Data Management!
 
 ## 🛠️ Current tech stack 
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nextjs,github,graphql,postgres,prisma)](https://florianh.dev/techstack)
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nextjs,github,graphql,postgres,prisma)]()
 
 <br />
 
 ## 🎨 Creative Stack
   
-[![SkillIcons](https://skillicons.dev/icons?i=ps,ai,pr,ae,figma,blender)](https://florianh.dev/creative)
+[![SkillIcons](https://skillicons.dev/icons?i=ps,ai,pr,ae,figma,blender)]()
 
 <br />
 
 ## 📂 Training…
   
-[![SkillIcons](https://skillicons.dev/icons?i=rust,golang,heroku,cloudflare,workers,gcp,aws,firebase,supabase)](https://florianh.dev/training)
+[![SkillIcons](https://skillicons.dev/icons?i=rust,golang,heroku,cloudflare,workers,gcp,aws,firebase,supabase)]()
 
 <br />
 
