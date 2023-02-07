@@ -1,22 +1,15 @@
-# Hey There! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-**I'm Florian (he/him)** -  I'm a front-end developer and designer based in Paris, France. I'm interested in development, data, web3, and building thriving web experiences. I work on random projects in my free time, a lot involving UX and Data Management!
 
-## 🛠️ Current tech stack 
+# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Nice to meet you!
+**I'm Florian**, a full-stack developer based in <img src="https://camo.githubusercontent.com/810c0059ec880d3bf22c12f8ecd24d39ae1c9ee5d294cd397e6f414738d9cdd8/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3139372f3139373536302e706e67" alt="" width="12" /> Paris, France. 
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nextjs,github,graphql,postgres,prisma)]()
 
-<br />
+I'm interested in development, design, marketing, and building thriving web experiences. I work on random projects in my free time, a lot involving UX/UI and AI !
 
-## 🎨 Creative Stack
-  
-[![SkillIcons](https://skillicons.dev/icons?i=ps,ai,pr,ae,figma,blender)]()
+<br /> 
+
+[![SkillIcons](https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,tailwind,mongo,supabase,aws,vercel)]()
 
 <br />
-
-## 📂 Training…
-  
-[![SkillIcons](https://skillicons.dev/icons?i=rust,golang,heroku,cloudflare,workers,gcp,aws,firebase,supabase)]()
-
 <br />
 
 ![](https://dcbadge.vercel.app/api/shield/170526147107356672?style=flat&compact=true)
@@ -24,7 +17,7 @@
 ![](https://komarev.com/ghpvc/?username=heysenflorian&style=flat-square&color=lightgrey)
 
 <details>
-  <summary>Github Stats <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></summary>
+  <summary>Github Stats</summary>
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=florianheysen&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florianheysen&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
