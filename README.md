@@ -7,7 +7,7 @@ I'm interested in development, design, marketing, and building thriving web expe
 
 <br /> 
 
-[![SkillIcons](https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,tailwind,prisma,postgresql,mongo,supabase,aws,vercel)]()
+[![SkillIcons](https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,tailwind,prisma,postgresql,mongo,supabase,redis,aws,vercel)]()
 
 <br />
 <br />
