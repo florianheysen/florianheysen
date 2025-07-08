@@ -1,9 +1,9 @@
 
-# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Nice to meet you!
-**I'm Florian**, a full-stack developer based in Paris, France. 
+# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> nice to e-meet you!
+**I'm Florian**, a typescript developer based in Paris, France. 
 
 
-I'm interested in development, design, marketing, and building thriving web experiences. I work on random projects in my free time, a lot involving UX/UI and AI !
+I'm interested in development, design, marketing, and building cool web experiences. I work on random projects in my free time, a lot involving AI (original)
 
 <br /> 
 
